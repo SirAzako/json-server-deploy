@@ -1,0 +1,991 @@
+{
+  "questions": [
+    {
+      "question": "How many maps have been released?",
+      "options": ["8", "9", "10", "11"],
+      "correctOption": 3,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "general"
+    },
+    {
+      "question": "When was the game released?",
+      "options": ["2020", "2021", "2022", "2019"],
+      "correctOption": 0,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "question": "How many agents are there?",
+      "options": ["21", "24", "23", "22"],
+      "correctOption": 2,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agents"
+    },
+    {
+      "question": "How many controllers agents are there?",
+      "options": ["4", "5", "3", "6"],
+      "correctOption": 1,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agents"
+    },
+    {
+      "question": "How many duelist agents are there?",
+      "options": ["5", "6", "4", "7"],
+      "correctOption": 3,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agents"
+    },
+    {
+      "question": "How many initiator agents are there?",
+      "options": ["6", "5", "4", "7"],
+      "correctOption": 0,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agents"
+    },
+    {
+      "question": "Where is Chamber from?",
+      "options": ["Italy", "Belgium", "France", "Egypt"],
+      "correctOption": 2,
+      "points": 5,
+      "difficulty": "easy",
+      "category": "agents"
+    },
+    {
+      "question": "Where is Deadlock from?",
+      "options": ["Norway", "Sweden", "Esthonia", "Finland"],
+      "correctOption": 0,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "agents"
+    },
+    {
+      "question": "Where is Sage from?",
+      "options": ["Russia", "South Korea", "Kazakhstan", "China"],
+      "correctOption": 3,
+      "points": 5,
+      "difficulty": "easy",
+      "category": "agents"
+    },
+    {
+      "question": "Where is Cypher from?",
+      "options": ["Morocco", "Spain", "Algeria", "Portugal"],
+      "correctOption": 0,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "agents"
+    },
+    {
+      "question": "Where is KillJoy from?",
+      "options": ["Germany", "Poland", "Denmark", "Czech Republic"],
+      "correctOption": 0,
+      "points": 5,
+      "difficulty": "easy",
+      "category": "agents"
+    },
+    {
+      "question": "Where is Gekko from?",
+      "options": ["Mexico", "Brazil", "USA", "Uruguay"],
+      "correctOption": 2,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "agents"
+    },
+    {
+      "question": "Where is Fade from?",
+      "options": ["Greece", "Albania", "Turkey", "Bulgaria"],
+      "correctOption": 2,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "agents"
+    },
+    {
+      "question": "Where is Neon from?",
+      "options": ["Albania", "Indonesia ", "Vietnam", "Philippines"],
+      "correctOption": 3,
+      "points": 5,
+      "difficulty": "easy",
+      "category": "agents"
+    },
+    {
+      "question": "Where is Skye from?",
+      "options": ["Brazil", "Australia", "Russia", "India"],
+      "correctOption": 1,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "agents"
+    },
+    {
+      "question": "Where is Breach from?",
+      "options": ["Sweden", "Norway", "Finland", "Denmark"],
+      "correctOption": 0,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "agents"
+    },
+    {
+      "question": "Where is ISO from?",
+      "options": ["Russia", "South Korea", "Kazakhstan", "China"],
+      "correctOption": 3,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "agents"
+    },
+    {
+      "question": "Where is Yoru from?",
+      "options": ["China", "South Korea", "Japan", "Taiwan"],
+      "correctOption": 2,
+      "points": 5,
+      "difficulty": "easy",
+      "category": "agents"
+    },
+    {
+      "question": "Where is Phoenix from?",
+      "options": ["Netherlands", "UK", "Belgium", "France"],
+      "correctOption": 1,
+      "points": 5,
+      "difficulty": "easy",
+      "category": "agents"
+    },
+    {
+      "question": "Where is Jett from?",
+      "options": ["China", "South Korea", "Japan", "Taiwan"],
+      "correctOption": 1,
+      "points": 5,
+      "difficulty": "easy",
+      "category": "agents"
+    },
+    {
+      "question": "Where is Reyna from?",
+      "options": ["Mexico", "Brazil", "USA", "Uruguay"],
+      "correctOption": 0,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "agents"
+    },
+    {
+      "question": "Where is Raze from?",
+      "options": ["Mexico", "Uruguay", "Peru", "Brazil"],
+      "correctOption": 3,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "agents"
+    },
+    {
+      "question": "Where is Harbor from?",
+      "options": ["India", "Pakistan", "Sri Lanka", "USA"],
+      "correctOption": 0,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "agents"
+    },
+    {
+      "question": "Where is Astra from?",
+      "options": ["Peru", "Pakistan", "Sri Lanka", "Ghana"],
+      "correctOption": 3,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "agents"
+    },
+    {
+      "question": "Where is Viper from?",
+      "options": ["Belgium", "Netherland", "USA", "France"],
+      "correctOption": 2,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "agents"
+    },
+    {
+      "question": "Where is Brimstone from?",
+      "options": ["Greece", "USA", "UK", "Ireland"],
+      "correctOption": 1,
+      "points": 5,
+      "difficulty": "easy",
+      "category": "agents"
+    },
+    {
+      "question": "Which Agent's ultimate ability allows them to revive a fallen teammate?",
+      "options": ["Phoenix", "Sage", "Reyna", "Killjoy"],
+      "correctOption": 1,
+      "points": 5,
+      "difficulty": "easy",
+      "category": "agents"
+    },
+    {
+      "question": "Which weapon is a fully automatic rifle with a high rate of fire, best used in close-range combat?",
+      "options": ["Vandal", "Operator", "Spectre", "Phantom"],
+      "correctOption": 2,
+      "points": 5,
+      "difficulty": "easy",
+      "category": "game mechanics"
+    },
+    {
+      "question": "Which Sentinel Agent has the ability to place traps that damage and reveal enemies?",
+      "options": ["Chamber", "Killjoy", "Cypher", "Sage"],
+      "correctOption": 2,
+      "points": 5,
+      "difficulty": "easy",
+      "category": "agents"
+    },
+    {
+      "question": "Which of these weapons is considered a sniper rifle?",
+      "options": ["Marshal", "Sheriff", "Guardian", "Bucky"],
+      "correctOption": 0,
+      "points": 5,
+      "difficulty": "easy",
+      "category": "game mechanics"
+    },
+    {
+      "question": "Which Agent has the ability to teleport short distances?",
+      "options": ["Neon", "Raze", "Jett", "Omen"],
+      "correctOption": 3,
+      "points": 5,
+      "difficulty": "easy",
+      "category": "agents"
+    },
+    {
+      "question": "Which map features three bomb sites instead of the standard two?",
+      "options": ["Split", "Fracture", "Haven", "Pearl"],
+      "correctOption": 2,
+      "points": 5,
+      "difficulty": "easy",
+      "category": "maps"
+    },
+    {
+      "question": "How many credits do you earn for winning a round?",
+      "options": ["2000", "2500", "3000", "3500"],
+      "correctOption": 2,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "game mechanics"
+    },
+    {
+      "question": "Which Duelist Agent's signature ability involves throwing a damaging fire grenade?",
+      "options": ["Reyna", "Raze", "Phoenix", "Yoru"],
+      "correctOption": 2,
+      "points": 5,
+      "difficulty": "easy",
+      "category": "agents"
+    },
+    {
+      "question": "What is the name of the game mode where players quickly cycle through different weapons and abilities?",
+      "options": ["Spike Rush", "Replication", "Escalation", "Deathmatch"],
+      "correctOption": 2,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "game mechanics"
+    },
+    {
+      "question": "What is the term for when a player eliminates all 5 members of the opposing team in a single round?",
+      "options": ["Clutch", "Ace", "Wipe", "Thrifty"],
+      "correctOption": 1,
+      "points": 5,
+      "difficulty": "easy",
+      "category": "general"
+    },
+    {
+      "question": "Which map features a zipline system for rapid movement between spawns?",
+      "options": ["Split", "Icebox", "Fracture", "Breeze"],
+      "correctOption": 2,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "maps"
+    },
+    {
+      "question": "What is the maximum amount of credits a player can earn for losing a round?",
+      "options": ["500", "1000", "1900", "2900"],
+      "correctOption": 3,
+      "points": 10,
+      "difficulty": "hard",
+      "category": "game mechanics"
+    },
+    {
+      "question": "Which cosmetic skin line is known for its dragon-themed designs?",
+      "options": ["Elderflame", "Prime", "Glitchpop", "Sovereign"],
+      "correctOption": 0,
+      "points": 5,
+      "difficulty": "easy",
+      "category": "cosmetics"
+    },
+    {
+      "question": "Which Agent has the ability to create a decoy copy of themselves?",
+      "options": ["Yoru", "Reyna", "Omen", "Phoenix"],
+      "correctOption": 0,
+      "points": 5,
+      "difficulty": "easy",
+      "category": "agents"
+    },
+    {
+      "question": "Which of these is NOT an Agent role in Valorant?",
+      "options": ["Controller", "Marksman", "Initiator", "Sentinel"],
+      "correctOption": 1,
+      "points": 5,
+      "difficulty": "easy",
+      "category": "agents"
+    },
+    {
+      "question": "Which map is directly connected to the Kingdom Corporation headquarters?",
+      "options": ["Fracture", "Ascent", "Bind", "Haven"],
+      "correctOption": 0,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "lore"
+    },
+    {
+      "question": "Prior to the First Light, what was the primary use of Radianite?",
+      "options": [
+        "Weapon technology",
+        "Clean energy source",
+        "Space exploration",
+        "Medical research"
+      ],
+      "correctOption": 1,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "lore"
+    },
+    {
+      "question": "What is the name of the Agent from the Mirror Earth (Omega Earth) that is the counterpart of Viper?",
+      "options": ["Cobra", "Serpent", "Asp", "Sabine"],
+      "correctOption": 3,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "lore"
+    },
+    {
+      "question": "Which two Agents have a history of romantic involvement?",
+      "options": [
+        "Phoenix & Jett",
+        "Reyna & Omen",
+        "Killjoy & Raze",
+        "Viper & Brimstone"
+      ],
+      "correctOption": 2,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "lore"
+    },
+    {
+      "question": "What is the name of the melee weapon all players are equipped with by default?",
+      "options": [
+        "Combat Knife",
+        "Tactical Blade",
+        "Standard Issue Knife",
+        "Ghost Blade"
+      ],
+      "correctOption": 0,
+      "points": 5,
+      "difficulty": "easy",
+      "category": "game mechanics"
+    },
+    {
+      "question": "Which gun is known for its one-shot headshot potential at any range?",
+      "options": ["Operator", "Marshal", "Sheriff", "Guardian"],
+      "correctOption": 0,
+      "points": 5,
+      "difficulty": "easy",
+      "category": "game mechanics"
+    },
+    {
+      "question": "The 'RGX 11z Pro' skin line is known for which cosmetic feature?",
+      "options": [
+        "Dragon designs",
+        "Futuristic and glowing effects",
+        "Animal skins",
+        "Musical sounds"
+      ],
+      "correctOption": 1,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "cosmetics"
+    },
+    {
+      "question": "The term 'eco round' refers to a round where a team...",
+      "options": [
+        "...focuses on saving money for future rounds.",
+        "...tries to plant the Spike on a specific site.",
+        "...all use the same weapon for strategic impact.",
+        "...focuses on abilities instead of purchasing guns."
+      ],
+      "correctOption": 0,
+      "points": 5,
+      "difficulty": "easy",
+      "category": "game mechanics"
+    },
+    {
+      "question": "Which map was the most recent addition to Valorant's map pool?",
+      "options": ["Lotus", "Pearl", "Sunset", "Breeze"],
+      "correctOption": 2,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "maps"
+    },
+    {
+      "question": "Which Agent is known for their aggressive playstyle and self-healing abilities?",
+      "options": ["Reyna", "Sage", "Jett", "Skye"],
+      "correctOption": 0,
+      "points": 5,
+      "difficulty": "easy",
+      "category": "agents"
+    },
+    {
+      "question": "What is the name of the secret base of operations for the Valorant Protocol?",
+      "options": ["The Citadel", "Haven Point", "The Sanctuary", "Omega Base"],
+      "correctOption": 2,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "lore"
+    },
+    {
+      "question": "Before joining the Valorant Protocol, what was Sage's profession?",
+      "options": ["Field Medic", "Miner", "Scientist", "Architect"],
+      "correctOption": 0,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "lore"
+    },
+    {
+      "question": "Which two Agents have voice lines suggesting they have a sibling-like rivalry?",
+      "options": [
+        "Sage & Omen",
+        "Viper & Reyna",
+        "Jett & Phoenix",
+        "Skye & Killjoy"
+      ],
+      "correctOption": 2,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "lore"
+    },
+    {
+      "question": "What is the name of the first major cinematic released for Valorant with the launch of the game?",
+      "options": ["RETAKE", "WARM UP", "DUELISTS", "IGNITION"],
+      "correctOption": 2,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "lore"
+    },
+    {
+      "question": "Omen's true identity is shrouded in mystery, but he is hinted to be related to which existing Agent?",
+      "options": ["Sage", "Cypher", "Viper", "Reyna"],
+      "correctOption": 2,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "lore"
+    },
+    {
+      "question": "How much Classic weapon cost?",
+      "options": ["Free", "150", "100", "50"],
+      "correctOption": 0,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "weapons"
+    },
+    {
+      "question": "How much Shorty cost?",
+      "options": ["Free", "150", "100", "50"],
+      "correctOption": 1,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "weapons"
+    },
+    {
+      "question": "How much Frenzy cost?",
+      "options": ["350", "150", "250", "450"],
+      "correctOption": 3,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "weapons"
+    },
+    {
+      "question": "How much Ghost cost?",
+      "options": ["400", "500", "600", "450"],
+      "correctOption": 1,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "weapons"
+    },
+    {
+      "question": "How much Sheriff cost?",
+      "options": ["1000", "800", "850", "950"],
+      "correctOption": 1,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "weapons"
+    },
+    {
+      "question": "How much Stinger cost?",
+      "options": ["1000", "800", "850", "950"],
+      "correctOption": 3,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "weapons"
+    },
+    {
+      "question": "How much Spectre cost?",
+      "options": ["1600", "1400", "1500", "1300"],
+      "correctOption": 0,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "weapons"
+    },
+    {
+      "question": "How much Bucky cost?",
+      "options": ["850", "1050", "950", "1100"],
+      "correctOption": 0,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "weapons"
+    },
+    {
+      "question": "How much Bulldog cost?",
+      "options": ["2000", "2100", "2050", "2150"],
+      "correctOption": 2,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "weapons"
+    },
+    {
+      "question": "How much Guardian cost?",
+      "options": ["2350", "2250", "2050", "2150"],
+      "correctOption": 1,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "weapons"
+    },
+    {
+      "question": "How much Phantom cost?",
+      "options": ["2900", "3900", "2800", "3100"],
+      "correctOption": 0,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "weapons"
+    },
+    {
+      "question": "How much Vandal cost?",
+      "options": ["2900", "3900", "2800", "3100"],
+      "correctOption": 0,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "weapons"
+    },
+    {
+      "question": "How much Marshal cost?",
+      "options": ["850", "950", "1050", "1150"],
+      "correctOption": 1,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "weapons"
+    },
+    {
+      "question": "How much Outlaw cost?",
+      "options": ["2400", "2200", "2000", "1900"],
+      "correctOption": 0,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "weapons"
+    },
+    {
+      "question": "How much Ares cost?",
+      "options": ["1400", "1800", "1900", "1600"],
+      "correctOption": 3,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "weapons"
+    },
+    {
+      "question": "How much Odin cost?",
+      "options": ["3000", "3200", "2900", "3900"],
+      "correctOption": 1,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "weapons"
+    },
+    {
+      "question": "How much Heavy Shield cost?",
+      "options": ["500", "400", "800", "1000"],
+      "correctOption": 3,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "weapons"
+    },
+    {
+      "question": "How much Light Shield cost?",
+      "options": ["500", "400", "800", "1000"],
+      "correctOption": 1,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "weapons"
+    },
+    {
+      "question": "What is Brimstone’s real name?",
+      "options": [
+        "Ryan Donovan",
+        "Liam Byrne",
+        "Finnegan Brennan",
+        "Ethan Brady"
+      ],
+      "correctOption": 1,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "What is Brimstone’s Valorant Agent Number?",
+      "options": ["00", "01", "05", "09"],
+      "correctOption": 1,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the Incendiary ability?",
+      "options": ["Brimstone", "Phoenix", "Fade", "Raze"],
+      "correctOption": 0,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "ability"
+    },
+    {
+      "question": "Which agent has the Stim Beacon ability?",
+      "options": ["Cypher", "Raze", "Brimstone", "ISO"],
+      "correctOption": 2,
+      "points": 5,
+      "difficulty": "easy",
+      "category": "ability"
+    },
+    {
+      "question": "Which agent has the Sky Smoke ability?",
+      "options": ["Omen", "Astra", "Skye", "Brimstone"],
+      "correctOption": 3,
+      "points": 5,
+      "difficulty": "easy",
+      "category": "ability"
+    },
+    {
+      "question": "Which agent has the Orbital Strike ultimate ability?",
+      "options": ["Brimstone", "Raze", "Harbor", "Yoru"],
+      "correctOption": 0,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "ability"
+    },
+    {
+      "question": "Which agent has the Code Name Sarge?",
+      "options": ["Sage", "Brimstone", "Killjoy", "Sova"],
+      "correctOption": 1,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the Code Name Wraith?",
+      "options": ["Jett", "Breach", "Skye", "Omen"],
+      "correctOption": 3,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the Code Name Gumshoe?",
+      "options": ["Cypher", "Gekko", "Deadlock", "Chamber"],
+      "correctOption": 3,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the Code Name Hunter?",
+      "options": ["Skye", "Jett", "Sova", "Kayo"],
+      "correctOption": 2,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the Code Name Thorne?",
+      "options": ["Sage", "Breach", "Brimstone", "Deadlock"],
+      "correctOption": 0,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the Code Name Pandemic?",
+      "options": ["Killjoy", "Viper", "Astra", "Sage"],
+      "correctOption": 1,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the Code Name Apollo?",
+      "options": ["Yoru", "Breach", "Phoenix", "Harbor"],
+      "correctOption": 2,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the Code Name Wushu?",
+      "options": ["Kayo", "Jett", "Viper", "Cypher"],
+      "correctOption": 1,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the Code Name Vampire?",
+      "options": ["Phoenix", "Astra", "Yoru", "Reyna"],
+      "correctOption": 3,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the Code Name Clay?",
+      "options": ["Raze", "Harbor", "Jett", "Sova"],
+      "correctOption": 0,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the Code Name Guide?",
+      "options": ["Astra", "Skye", "Reyna", "Brimstone"],
+      "correctOption": 1,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the Code Name Stealthboi?",
+      "options": ["Omen", "Fade", "Yoru", "Neon"],
+      "correctOption": 2,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the Code Name Rift?",
+      "options": ["Astra", "Omen", "Chamber", "Sova"],
+      "correctOption": 0,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the Code Name Grenadier?",
+      "options": ["Raze", "Kayo", "Brimstone", "Phoenix"],
+      "correctOption": 1,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the Code Name Deadeye?",
+      "options": ["Neon", "Gekko", "Reyna", "Chamber"],
+      "correctOption": 3,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the Code Name Bounty?",
+      "options": ["Sova", "Gekko", "Fade", "Cypher"],
+      "correctOption": 2,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the Code Name Sprinter?",
+      "options": ["Neon", "Yoru", "Jett", "Raze"],
+      "correctOption": 0,
+      "points": 5,
+      "difficulty": "easy",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the Code Name Mage?",
+      "options": ["Deadlock", "Sage", "Harbor", "Viper"],
+      "correctOption": 2,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the Code Name Cable?",
+      "options": ["Killjoy", "Chamber", "Cypher", "Deadlock"],
+      "correctOption": 3,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the real name Sabine Callas?",
+      "options": ["Viper", "Sage", "Killjoy", "Deadlock"],
+      "correctOption": 0,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has UNKNOWN real name?",
+      "options": ["Cypher", "Omen", "Kayo", "Chamber"],
+      "correctOption": 1,
+      "points": 10,
+      "difficulty": "medium",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the real name Klara?",
+      "options": ["Viper", "Sage", "Killjoy", "Deadlock"],
+      "correctOption": 2,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the real name Amir?",
+      "options": ["ISO", "Cypher", "Breach", "Brimstone"],
+      "correctOption": 1,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the real name Alexander?",
+      "options": ["Sova", "Brimstone", "Breach", "Chamber"],
+      "correctOption": 0,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the real name Ling Ying Wei?",
+      "options": ["Neon", "Yoru", "Jett", "Sage"],
+      "correctOption": 3,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the real name Jamie Adeyemi?",
+      "options": ["Gekko", "Brimstone", "Phoenix", "Viper"],
+      "correctOption": 2,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the real name Sunwoo Han?",
+      "options": ["Sage", "Jett", "Yoru", "Neon"],
+      "correctOption": 1,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the real name Zyanya?",
+      "options": ["Reyna", "Fade", "Deadlock", "Sage"],
+      "correctOption": 0,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the real name Tayane?",
+      "options": ["Reyna", "Raze", "Jett", "Skye"],
+      "correctOption": 1,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the real name Eric?",
+      "options": ["Chamber", "Phoenix", "Breach", "Omen"],
+      "correctOption": 2,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the real name Kirra Foster?",
+      "options": ["Astra", "Viper", "Killjoy", "Skye"],
+      "correctOption": 3,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the real name Ryo Kiritani?",
+      "options": ["Harbor", "Yoru", "Gekko", "Kayo"],
+      "correctOption": 1,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the real name Efia Danso?",
+      "options": ["Skye", "Sage", "Astra", "Raze"],
+      "correctOption": 2,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the real name Vincent?",
+      "options": ["Brimstone", "Yoru", "Breach", "Chamber"],
+      "correctOption": 3,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the real name Tala Nicole?",
+      "options": ["Raze", "Neon", "Reyna", "Killjoy"],
+      "correctOption": 1,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the real name Hazal Eyletmez?",
+      "options": ["Fade", "Reyna", "Cypher", "Harbor"],
+      "correctOption": 0,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the real name Hazal Eyletmez?",
+      "options": ["Fade", "Reyna", "Cypher", "Harbor"],
+      "correctOption": 3,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the real name Mateo?",
+      "options": ["Phoenix", "Brimstone", "Gekko", "Omen"],
+      "correctOption": 2,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    },
+    {
+      "question": "Which agent has the real name Iselin?",
+      "options": ["Deadlock", "Fade", "Reyna", "Neon"],
+      "correctOption": 0,
+      "points": 20,
+      "difficulty": "hard",
+      "category": "agent"
+    }
+  ]
+}
